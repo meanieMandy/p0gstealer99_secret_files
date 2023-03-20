@@ -1,11 +1,11 @@
 import smtplib, ssl
 
 port = 465  # For SSL
-password = '1mM34n13M4NDY!!!'
+password = '**********'
 
 
-sender_email = "meaniemandythebestnumber1nocyap@gmail.com"
-receiver_email = "admin@poggedupbois.com"
+sender_email = "***"
+receiver_email = "****"
 message = """\
 Subject: Unauthorized Credit Suisse Bank Transaction
 
